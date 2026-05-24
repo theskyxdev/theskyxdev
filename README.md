@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 AI & Data Science Student <br>• Competitive Programmer<br>• Web Dev <br>• DSA <br>• ML Enthusiast <br>• Building innovative solutions
 
 
